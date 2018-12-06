@@ -13,7 +13,7 @@ import GoogleMaps;
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-    let cGoogleMapsAPIKey = "AIzaSyB9MEebx_0djzDfF6xdigcJVnEs8EjZSng"
+    let cGoogleMapsAPIKey = "hoge"
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
